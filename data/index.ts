@@ -74,7 +74,7 @@ export const projects = [
   {
     id: 1,
     title: "LiveDocs Real-time Document editor",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    des: "Streamline your documentation process with LiveDocs. This innovative tool allows users to create, edit, and manage documents in real-time, facilitating smooth collaboration and ensuring everyone stays on the same page effortlessly.",
     img: "/p1.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "https://pritam-live-docs.vercel.app/sign-in",
